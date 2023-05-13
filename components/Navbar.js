@@ -11,7 +11,7 @@ export default function Navbar() {
     <nav className="header">
       <h1 className="logo">
         <a href="#">NextAuth</a>
-      </h1>
+      </h1> 
       <ul className={`main-nav`}>
         <li>
           <Link href="/">
